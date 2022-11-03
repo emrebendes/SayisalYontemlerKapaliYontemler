@@ -1,2 +1,2 @@
 # kapali_yontemler
-sayısal yöntemler dersi python kodları
+sayısal yöntemler dersi Kapalı yöntemlere ait python kodları
